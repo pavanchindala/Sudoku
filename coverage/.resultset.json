@@ -1,0 +1,90 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/sameer/Downloads/126f799a9f5ec518a00d-master/app/helpers/api/sudoku_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/sameer/Downloads/126f799a9f5ec518a00d-master/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/sameer/Downloads/126f799a9f5ec518a00d-master/app/controllers/api/sudoku_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          3,
+          null,
+          0,
+          null,
+          3,
+          2,
+          null,
+          1,
+          null,
+          null,
+          1,
+          88948,
+          507395,
+          61934,
+          null,
+          null,
+          27014,
+          174721,
+          13303,
+          null,
+          null,
+          13711,
+          13711,
+          13711,
+          37154,
+          107669,
+          3780,
+          null,
+          null,
+          null,
+          9931,
+          null,
+          1,
+          15125,
+          15125,
+          2,
+          null,
+          15123,
+          976,
+          976,
+          null,
+          15123,
+          5191,
+          null,
+          9932,
+          88948,
+          9931,
+          9931,
+          102,
+          null,
+          null,
+          88846,
+          null,
+          9830,
+          null,
+          null
+        ]
+      },
+      "/home/sameer/Downloads/126f799a9f5ec518a00d-master/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1652360116
+  }
+}
